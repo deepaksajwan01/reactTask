@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactTask/static/css/main.b4641456.chunk.css",
+    "main.js": "/reactTask/static/js/main.3c0cfc67.chunk.js",
+    "main.js.map": "/reactTask/static/js/main.3c0cfc67.chunk.js.map",
+    "runtime-main.js": "/reactTask/static/js/runtime-main.362376f1.js",
+    "runtime-main.js.map": "/reactTask/static/js/runtime-main.362376f1.js.map",
+    "static/css/2.5bc329b2.chunk.css": "/reactTask/static/css/2.5bc329b2.chunk.css",
+    "static/js/2.45e38279.chunk.js": "/reactTask/static/js/2.45e38279.chunk.js",
+    "static/js/2.45e38279.chunk.js.map": "/reactTask/static/js/2.45e38279.chunk.js.map",
+    "index.html": "/reactTask/index.html",
+    "precache-manifest.7cea9c581e607079a7d451779c952824.js": "/reactTask/precache-manifest.7cea9c581e607079a7d451779c952824.js",
+    "service-worker.js": "/reactTask/service-worker.js",
+    "static/css/2.5bc329b2.chunk.css.map": "/reactTask/static/css/2.5bc329b2.chunk.css.map",
+    "static/css/main.b4641456.chunk.css.map": "/reactTask/static/css/main.b4641456.chunk.css.map",
+    "static/js/2.45e38279.chunk.js.LICENSE.txt": "/reactTask/static/js/2.45e38279.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/reactTask/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.362376f1.js",
+    "static/css/2.5bc329b2.chunk.css",
+    "static/js/2.45e38279.chunk.js",
+    "static/css/main.b4641456.chunk.css",
+    "static/js/main.3c0cfc67.chunk.js"
+  ]
+}
