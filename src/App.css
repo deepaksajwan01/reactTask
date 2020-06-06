@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html, body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.input-container {
+  margin-top: 1rem;
+}
+
+.input-container span {
+  display: inline-block;
+  width: 50px;
+}
+
+.input-container input {
+  margin-left: 1rem;
+  width: 200px;
+  padding: 5px;
+}
+
+.input-container .fetch-button {
+  margin-left: 1rem;
+}
+.card-width{
+  min-width: 18em;
+}
+.d-flex-basis{
+  flex-basis: 70%;
+}
+
+/* Table */
+
+/* Table sort indicators */
+
+th.sortable {
+  position: relative;
+  cursor: pointer;
+}
+
+th.sortable::after {
+  font-family: FontAwesome;
+  content: "\f0dc";
+  position: absolute;
+  right: 8px;
+  color: #999;
+}
+
+th.sortable.asc::after {
+  content: "\f0d8";
+}
+
+th.sortable.desc::after {
+  content: "\f0d7";
+}
+
+th.sortable:hover::after {
+  color: #333;
+}
+
+
+
+
